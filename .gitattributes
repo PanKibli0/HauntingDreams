@@ -2,6 +2,6 @@
 * text=auto
 
 
-*.uasset binary merge=unrealbinary
-*.umap binary merge=unrealbinary
-*.upk binary merge=unrealbinary
+*.uasset binary merge=binary
+*.umap binary merge=binary
+*.upk binary merge=binary
